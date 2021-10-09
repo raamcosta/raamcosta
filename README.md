@@ -3,7 +3,7 @@
 Android Software Engineer. Kotlin clean code and architecture enthusiast.
 
 - 🔭 Currently working on my Jetpack Compose Navigation [library](https://github.com/raamcosta/compose-destinations) 
-- 🌱 Learning KSP 😵‍💫
+- 🌱 Learning KSP 🤯
 - 💡 Help me in my quest to make Compose Navigation better ([library](https://github.com/raamcosta/compose-destinations))
 - 💬 I'm down to chat about anything related with clean code and architecture of Android applications
 - 📫 Reach me through Twitter DM 
