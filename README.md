@@ -8,8 +8,14 @@ Android Software Engineer. Kotlin clean code and architecture enthusiast.
 - 💬 I'm down to chat about anything related with clean code and architecture of Android applications
 - 📫 Reach me through Twitter DM 
 
-Recently got my first article featured 🙌
+My featured articles 📖
 
 <a title="Android Weekly Issue 486" href="https://androidweekly.net/issues/issue-486"><img alt="Badge" src="https://androidweekly.net/issues/issue-486/badge" height="20px"></img></a> <br/> 
 - article:
 [Compose Destinations: a simpler, safer way to navigate in Jetpack Compose](https://proandroiddev.com/compose-destinations-a-simpler-safer-way-to-navigate-in-jetpack-compose-5249ea384298)
+
+<a title="Android Weekly Issue 495" href="https://androidweekly.net/issues/issue-495"><img alt="Badge" src="https://androidweekly.net/issues/issue-495/badge" height="20px"></img></a> 
+and
+<a title="Kotlin Weekly Issue 279" href="https://mailchi.mp/kotlinweekly/kotlin-weekly-279">Kotlin Weekly Issue 279</a> <br/>
+- article:
+[Considering all unhappy paths in a type-safe way in modern Android](https://proandroiddev.com/considering-all-unhappy-paths-in-a-type-safe-way-in-modern-android-bc41e9aaa55)
